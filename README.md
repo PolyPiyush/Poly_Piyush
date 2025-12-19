@@ -1,5 +1,6 @@
 # 💫 About Me:
-Data Science<br>DAta Analytics
+Data Science<br>Data Analytics<br>MY name is Piyush BHure and I am Data science
+enthusiastic.
 
 
 # 💻 Tech Stack:
